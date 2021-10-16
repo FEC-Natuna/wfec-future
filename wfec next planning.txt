@@ -1,0 +1,4 @@
+Rencana Pembuatan software Desktop'
+- Pemograman java Dasar 
+- Pemograman Java OOP
+-.Pemograman Java Advance
