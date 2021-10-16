@@ -1,0 +1,9 @@
+Tujuan yang akan dicapai dalam 1 tahun :
+- Program Web 
+  HTML,CSS,PHP,JavaScript,NodeJS
+  tiga Bulan Pertama :
+  1. HTML -> Selama 1 Bulan tanggal 16/10/2021 s/d 16/11/2021
+  2. CSS -> Bulan Kedua tanggal 16/11/2021 s/d 16/12/2021
+  3. PHP -> Bulan KeTiga tanggal 16/12/2021 s/d 16/01/2022
+  4. JavaScript -> Bulan Keempat tanggal 16/01/2022 s/d 16/02/2022
+  5. NodeJS -> Bulan KeLima tanggal 16/02/2022 s/d 16/03/2022
